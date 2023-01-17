@@ -1,0 +1,11 @@
+.wrapper {
+  min-height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+html, body {
+  font-family: Lato, sans-serif;
+  color: #424551;
+  line-height: 160%;
+}

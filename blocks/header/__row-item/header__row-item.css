@@ -1,0 +1,11 @@
+.header__row-item {
+  display: flex;
+  align-items: center;
+}
+
+.header__row-item span {
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  margin-right: 12px;
+}

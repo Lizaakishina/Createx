@@ -1,0 +1,7 @@
+.header__content-btn {
+  margin-right: 24px;
+}
+
+.header__content-btn:last-child {
+  margin-right: 0px;
+}

@@ -1,0 +1,15 @@
+.header__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #1E212C;
+  margin-bottom: 80px;
+}
+
+.header__row>span {
+  background: #FF3F3A;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin: 0 15px;
+}
