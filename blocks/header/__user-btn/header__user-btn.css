@@ -1,0 +1,9 @@
+.header__user-btn {
+  white-space: nowrap;
+  line-height: 1.6;
+  transition: all .3s;
+}
+
+.header__user-btn:hover {
+  color: #FF3F3A;
+}

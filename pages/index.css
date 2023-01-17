@@ -1,0 +1,22 @@
+@import url(../vendor/reset.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/page/page.css);
+/*общие стили*/
+@import url(../blocks/container/container.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/button/button.css);
+/*стили header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__top/header__top.css);
+@import url(../blocks/header/__top-inner/header__top-inner.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav-list/header__nav-list.css);
+@import url(../blocks/header/__nav-item/header__nav-item.css);
+@import url(../blocks/header/__nav-link/header__nav-link.css);
+@import url(../blocks/header/__btn-box/header__btn-box.css);
+@import url(../blocks/header/__top-btn/header__top-btn.css);
+@import url(../blocks/header/__user-nav/header__user-nav);
+@import url(../blocks/header/__user-btn/header__user-btn.css);
+
+@import url(../blocks/header/__body/header__body.css);

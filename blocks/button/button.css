@@ -1,0 +1,16 @@
+.button {
+  display: inline-block;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 52px;
+  padding: 0 40px;
+  color: #fff;
+  border-radius: 4px;
+  background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+  white-space: nowrap;
+  transition: .3s;
+}
+
+.button:hover {
+  transform: scale(1.05);
+}

@@ -1,0 +1,7 @@
+.header {
+  font-weight: 700;
+  background: url("../../images/decor/shapes-bg.svg") 50% 50% / cover no-repeat, linear-gradient(55.95deg, rgba(255, 63, 58, .2) 0%, rgba(247, 94, 5, .2) 100%);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

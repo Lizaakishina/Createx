@@ -1,0 +1,9 @@
+.header__nav-link {
+  line-height: 1.6;
+  white-space: nowrap;
+  transition: all .3s;
+}
+
+.header__nav-link:hover {
+  color: #FF3F3A;
+}
