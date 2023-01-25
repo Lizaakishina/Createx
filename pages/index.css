@@ -29,9 +29,11 @@
 @import url(../blocks/header/__content-btn/header__content-btn.css);
 @import url(../blocks/header/__row/header__row.css);
 @import url(../blocks/header/__row-item/header__row-item.css);
-/*стили main about us*/
+/*стили main*/
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/__about/main__about.css);
+@import url(../blocks/main/__directions/main__directions.css);
+/*стили about us*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__inner/about__inner.css);
 @import url(../blocks/about/__createx/about__createx.css);
@@ -50,3 +52,18 @@
 @import url(../blocks/heading/heading.css);
 @import url(../blocks/heading/__subtitle/heading__subtitle.css);
 @import url(../blocks/heading/__title/heading__title.css);
+/*стили directions*/
+@import url(../blocks/directions/directions.css);
+@import url(../blocks/directions/__inner/directions__inner.css);
+@import url(../blocks/directions/__heading/directions__heading.css);
+@import url(../blocks/directions/__filter-box/directions__filter-box.css);
+@import url(../blocks/directions/__filter-item/directions__filter-item.css);
+@import url(../blocks/directions/__filter-btn/directions__filter-btn.css);
+@import url(../blocks/directions/__list/directions__list.css);
+@import url(../blocks/directions/__list-item/directions__list-item.css);
+@import url(../blocks/directions/__list-link/directions__list-link.css);
+@import url(../blocks/directions/__image-box/directions__image-box.css);
+@import url(../blocks/directions/__link-content/directions__link-content.css);
+@import url(../blocks/directions/__link-tag/directions__link-tag.css);
+@import url(../blocks/directions/__link-text/directions__link-text.css);
+@import url(../blocks/directions/__link-btn/directions__link-btn.css);

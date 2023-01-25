@@ -1,0 +1,8 @@
+.directions__filter-item {
+  margin-right: 45px;
+  margin-bottom: 15px;
+}
+
+.directions__filter-item:last-child {
+  margin-right: 0;
+}

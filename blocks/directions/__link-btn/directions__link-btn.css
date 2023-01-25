@@ -1,0 +1,15 @@
+.directions__link-btn {
+  color: #1E212C;
+  display: flex;
+  font-weight: 700;
+  transition: all 1s;
+}
+
+.directions__link-btn::after {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: url("../images/icons/arrow-right-red.svg") 0 2px / 100% no-repeat;
+  margin-left: 11px;
+}

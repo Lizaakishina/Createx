@@ -1,0 +1,10 @@
+.directions__link-tag {
+  line-height: 1;
+  font-weight: 700;
+  color: #fff;
+  background-color: #999;
+  padding: 6px 8px;
+  border-radius: 4px;
+  align-self: flex-start;
+  margin-bottom: 20px;
+}

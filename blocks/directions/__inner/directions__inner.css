@@ -1,0 +1,26 @@
+.directions__inner {
+  position: relative;
+}
+
+.directions__inner::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 30px;
+  left: -190px;
+  width: 136px;
+  height: 115px;
+  background: url("../../../images/decor/2.svg") 0 0 no-repeat;
+}
+
+.directions__inner::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 400px;
+  right: -400px;
+  width: 243px;
+  height: 243px;
+  background: url("../../../images/decor/3.svg") 0 0 no-repeat;
+  opacity: .12;
+}

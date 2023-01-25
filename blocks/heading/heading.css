@@ -1,3 +1,7 @@
 .heading {
   color: #1E212C;
 }
+
+.heading--text-center {
+  text-align: center;
+}
