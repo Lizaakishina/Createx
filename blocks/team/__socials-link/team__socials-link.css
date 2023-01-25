@@ -1,0 +1,12 @@
+.team__socials-link {
+  display: block;
+  line-height: 0;
+}
+
+.team__socials-link path {
+  transition: all .3s;
+}
+
+.team__socials-link:hover path {
+  fill: #fff;
+}

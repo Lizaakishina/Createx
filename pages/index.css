@@ -34,6 +34,7 @@
 @import url(../blocks/main/__about/main__about.css);
 @import url(../blocks/main/__directions/main__directions.css);
 @import url(../blocks/main/__cert/main__cert.css);
+@import url(../blocks/main/__team/main__team.css);
 /*стили about us*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__inner/about__inner.css);
@@ -77,3 +78,19 @@
 @import url(../blocks/cert/__logos/cert__logos.css);
 @import url(../blocks/cert/__logos-item/cert__logos-item.css);
 @import url(../blocks/cert/__image-box/cert__image-box.css);
+/*стили team*/
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__heading/team__heading.css);
+@import url(../blocks/team/__slider/team__slider.css);
+@import url(../blocks/team/__slide/team__slide.css);
+@import url(../blocks/team/__image-box/team__image-box.css);
+@import url(../blocks/team/__image/team__image.css);
+@import url(../blocks/team/__socials/team__socials.css);
+@import url(../blocks/team/__socials-item/team__socials-item.css);
+@import url(../blocks/team/__socials-link/team__socials-link.css);
+@import url(../blocks/team/__info/team__info.css);
+@import url(../blocks/team/__info-name/team__info-name.css);
+@import url(../blocks/team/__info-position/team__info-position.css);
+@import url(../blocks/team/__slider-arrows/team__slider-arrows.css);
+@import url(../blocks/team/__slider-arrow/team__slider-arrow.css);
+@import url(../blocks/team/__slider-prev/team__slider-prev.css);

@@ -1,0 +1,9 @@
+.team__slider-arrows {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.team__slider-arrows {
+  display: flex;
+}

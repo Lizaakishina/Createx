@@ -1,0 +1,11 @@
+.team__slide {
+  margin-right: 30px;
+}
+
+.team__slide:last-child {
+  margin-right: 0px;
+}
+
+.team__slide:hover .team__socials {
+  transform: translateY(0%);
+}

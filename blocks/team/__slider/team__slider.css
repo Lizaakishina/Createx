@@ -1,0 +1,8 @@
+.team__slider {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team__slider .slick-list {
+  margin: 0 -15px;
+}
