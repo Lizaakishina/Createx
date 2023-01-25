@@ -7,7 +7,7 @@
   display: block;
   position: absolute;
   top: 30px;
-  left: -190px;
+  left: -90px;
   width: 136px;
   height: 115px;
   background: url("../../../images/decor/2.svg") 0 0 no-repeat;
@@ -17,8 +17,8 @@
   content: "";
   display: block;
   position: absolute;
-  top: 400px;
-  right: -400px;
+  top: 50px;
+  right: -250px;
   width: 243px;
   height: 243px;
   background: url("../../../images/decor/3.svg") 0 0 no-repeat;

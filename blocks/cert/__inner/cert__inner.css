@@ -1,0 +1,16 @@
+.cert__inner {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.cert__inner::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -15px;
+  left: -70px;
+  width: 60px;
+  height: 60px;
+  background: url("../../../images/decor/4.svg") 0 0 no-repeat;
+}

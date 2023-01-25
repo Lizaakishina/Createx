@@ -33,6 +33,7 @@
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/__about/main__about.css);
 @import url(../blocks/main/__directions/main__directions.css);
+@import url(../blocks/main/__cert/main__cert.css);
 /*стили about us*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__inner/about__inner.css);
@@ -67,3 +68,12 @@
 @import url(../blocks/directions/__link-tag/directions__link-tag.css);
 @import url(../blocks/directions/__link-text/directions__link-text.css);
 @import url(../blocks/directions/__link-btn/directions__link-btn.css);
+/*стили cert*/
+@import url(../blocks/cert/cert.css);
+@import url(../blocks/cert/__inner/cert__inner.css);
+@import url(../blocks/cert/__content/cert__content.css);
+@import url(../blocks/cert/__heading/cert__heading.css);
+@import url(../blocks/cert/__text/cert__text.css);
+@import url(../blocks/cert/__logos/cert__logos.css);
+@import url(../blocks/cert/__logos-item/cert__logos-item.css);
+@import url(../blocks/cert/__image-box/cert__image-box.css);
