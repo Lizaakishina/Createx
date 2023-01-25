@@ -1,0 +1,7 @@
+.about__btn {
+  margin-right: 24px;
+}
+
+.about__btn:last-child {
+  margin-right: 0;
+}

@@ -29,6 +29,24 @@
 @import url(../blocks/header/__content-btn/header__content-btn.css);
 @import url(../blocks/header/__row/header__row.css);
 @import url(../blocks/header/__row-item/header__row-item.css);
-/*стили main*/
+/*стили main about us*/
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/__about/main__about.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__inner/about__inner.css);
+@import url(../blocks/about/__createx/about__createx.css);
+@import url(../blocks/about/__createx-content/about__createx-content.css);
+@import url(../blocks/about/__heading/about__heading.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__paragraph/about__paragraph.css);
+@import url(../blocks/about/__btn-box/about__btn-box.css);
+@import url(../blocks/about/__btn/about__btn.css);
+@import url(../blocks/about/__img/about__img.css);
+@import url(../blocks/about/__values/about__values.css);
+@import url(../blocks/about/__image-box/about__image-box.css);
+@import url(../blocks/about/__numbers/about__numbers.css);
+@import url(../blocks/about/__number/about__number.css);
+/*стили heading*/
+@import url(../blocks/heading/heading.css);
+@import url(../blocks/heading/__subtitle/heading__subtitle.css);
+@import url(../blocks/heading/__title/heading__title.css);

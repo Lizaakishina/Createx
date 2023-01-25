@@ -1,0 +1,14 @@
+.about__paragraph {
+  margin-bottom: 24px;
+}
+
+.about__paragraph:last-child {
+  margin-bottom: 0;
+}
+
+.about__paragraph--accent {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1E212C;
+}

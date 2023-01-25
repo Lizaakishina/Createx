@@ -1,0 +1,18 @@
+.about__number {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.about__number:last-child {
+  margin-bottom: 0;
+}
+
+.about__number span {
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 130%;
+  letter-spacing: 1px;
+  color: #FF3F3A;
+  margin-right: 16px;
+}

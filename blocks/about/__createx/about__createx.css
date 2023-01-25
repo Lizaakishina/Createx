@@ -1,0 +1,17 @@
+.about__createx {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 180px;
+  position: relative;
+}
+
+.about__createx::before {
+  content: "";
+  position: absolute;
+  top: -80px;
+  right: -140px;
+  background: url("../images/decor/1.svg");
+  width: 100px;
+  height: 85px;
+}
