@@ -1,0 +1,7 @@
+.program__acc-item {
+  margin-bottom: 24px;
+}
+
+.program__acc-item:last-child {
+  margin-bottom: 0;
+}

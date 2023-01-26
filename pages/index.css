@@ -35,6 +35,7 @@
 @import url(../blocks/main/__team/main__team.css);
 @import url(../blocks/main/__testimonials/main__testimonials.css);
 @import url(../blocks/main/__companies/main__companies.css);
+@import url(../blocks/main/__program/main__program.css);
 /*стили about us*/
 @import url(../blocks/about/__createx/about__createx.css);
 @import url(../blocks/about/__createx-content/about__createx-content.css);
@@ -111,3 +112,12 @@
 @import url(../blocks/companies/__heading/companies__heading.css);
 @import url(../blocks/companies/__grid/companies__grid.css);
 @import url(../blocks/companies/grid-link/companies__grid-link.css);
+/*стили program*/
+@import url(../blocks/program/__inner/program__inner.css);
+@import url(../blocks/program/__content/program__content.css);
+@import url(../blocks/program/__heading/program__heading.css);
+@import url(../blocks/program/__acc-item/program__acc-item.css);
+@import url(../blocks/program/__acc-link/program__acc-link.css);
+@import url(../blocks/program/__acc-head/program__acc-head.css);
+@import url(../blocks/program/__acc-text/program__acc-text.css);
+@import url(../blocks/program/__image/program__image.css);

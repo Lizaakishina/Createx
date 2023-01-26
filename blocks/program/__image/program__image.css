@@ -1,0 +1,8 @@
+.program__image {
+  flex-shrink: 0;
+}
+
+.program__image img {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,33 @@
+.program__acc-head {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1E212C;
+  position: relative;
+}
+
+.program__acc-head span {
+  font-weight: 400;
+  color: #FF3F3A;
+}
+
+.program__acc-head::before,
+.program__acc-head::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -40px;
+  width: 18px;
+  height: 2px;
+  background-color: #FF3F3A;
+  border-radius: 2px;
+}
+
+.program__acc-head::after {
+  transform: rotate(90deg);
+  transition: all .3s;
+}
+
+.program__acc-link--active .program__acc-head::after {
+  transform: rotate(0deg);
+}
