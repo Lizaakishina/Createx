@@ -1,0 +1,13 @@
+.companies__inner {
+  position: relative;
+}
+
+.companies__inner::before {
+  content: "";
+  position: absolute;
+  left: -230px;
+  bottom: -120px;
+  background: url("../../../images/decor/5.svg") 0 0 / 100% no-repeat;
+  width: 90px;
+  height: 90px;
+}

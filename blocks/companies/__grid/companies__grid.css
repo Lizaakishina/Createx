@@ -1,0 +1,5 @@
+.companies__grid {
+  display: grid;
+  grid-template: repeat(2, auto) / repeat(6, 1fr);
+  gap: 40px 8.1%;
+}

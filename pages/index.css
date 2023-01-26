@@ -36,6 +36,7 @@
 @import url(../blocks/main/__cert/main__cert.css);
 @import url(../blocks/main/__team/main__team.css);
 @import url(../blocks/main/__testimonials/main__testimonials.css);
+@import url(../blocks/main/__companies/main__companies.css);
 /*стили about us*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__inner/about__inner.css);
@@ -111,3 +112,9 @@
 @import url(../blocks/testimonials/__arrow/testimonials__arrow.css);
 @import url(../blocks/testimonials/__prev/testimonials__prev.css);
 @import url(../blocks/testimonials/__next/testimonials__next.css);
+/*стили companies*/
+@import url(../blocks/companies/companies.css);
+@import url(../blocks/companies/__inner/companies__inner.css);
+@import url(../blocks/companies/__heading/companies__heading.css);
+@import url(../blocks/companies/__grid/companies__grid.css);
+@import url(../blocks/companies/grid-link/companies__grid-link.css);
