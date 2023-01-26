@@ -6,8 +6,8 @@
 .testimonials::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 350px;
+  top: 350px;
+  left: 650px;
   transform: translate(-44.9%, -55.4%);
   background: url("../../images/decor/testi-bg.svg") 0 0 / 100% no-repeat;
   width: 1971px;
