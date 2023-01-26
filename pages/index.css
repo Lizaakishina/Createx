@@ -7,7 +7,6 @@
 @import url(../blocks/button/button.css);
 /*стили header и header__top*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__top/header__top.css);
 @import url(../blocks/header/__top-inner/header__top-inner.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__nav/header__nav.css);
@@ -30,7 +29,6 @@
 @import url(../blocks/header/__row/header__row.css);
 @import url(../blocks/header/__row-item/header__row-item.css);
 /*стили main*/
-@import url(../blocks/main/main.css);
 @import url(../blocks/main/__about/main__about.css);
 @import url(../blocks/main/__directions/main__directions.css);
 @import url(../blocks/main/__cert/main__cert.css);
@@ -38,8 +36,6 @@
 @import url(../blocks/main/__testimonials/main__testimonials.css);
 @import url(../blocks/main/__companies/main__companies.css);
 /*стили about us*/
-@import url(../blocks/about/about.css);
-@import url(../blocks/about/__inner/about__inner.css);
 @import url(../blocks/about/__createx/about__createx.css);
 @import url(../blocks/about/__createx-content/about__createx-content.css);
 @import url(../blocks/about/__heading/about__heading.css);
@@ -47,7 +43,6 @@
 @import url(../blocks/about/__paragraph/about__paragraph.css);
 @import url(../blocks/about/__btn-box/about__btn-box.css);
 @import url(../blocks/about/__btn/about__btn.css);
-@import url(../blocks/about/__img/about__img.css);
 @import url(../blocks/about/__values/about__values.css);
 @import url(../blocks/about/__image-box/about__image-box.css);
 @import url(../blocks/about/__numbers/about__numbers.css);
@@ -57,7 +52,6 @@
 @import url(../blocks/heading/__subtitle/heading__subtitle.css);
 @import url(../blocks/heading/__title/heading__title.css);
 /*стили directions*/
-@import url(../blocks/directions/directions.css);
 @import url(../blocks/directions/__inner/directions__inner.css);
 @import url(../blocks/directions/__heading/directions__heading.css);
 @import url(../blocks/directions/__filter-box/directions__filter-box.css);
@@ -72,7 +66,6 @@
 @import url(../blocks/directions/__link-text/directions__link-text.css);
 @import url(../blocks/directions/__link-btn/directions__link-btn.css);
 /*стили cert*/
-@import url(../blocks/cert/cert.css);
 @import url(../blocks/cert/__inner/cert__inner.css);
 @import url(../blocks/cert/__content/cert__content.css);
 @import url(../blocks/cert/__heading/cert__heading.css);
