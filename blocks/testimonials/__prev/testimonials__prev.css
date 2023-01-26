@@ -1,0 +1,12 @@
+.testimonials__prev {
+  left: 0;
+}
+
+.testimonials__prev::before {
+  transform: translate(-50%, -50%) scale(0);
+  left: 22%;
+}
+
+.testimonials__prev:hover::before {
+  transform: translate(-50%, -50%) scale(1);
+}

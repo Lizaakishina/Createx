@@ -1,0 +1,15 @@
+.testimonials {
+  background: #F4F5F7;
+  position: relative;
+}
+
+.testimonials::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 350px;
+  transform: translate(-44.9%, -55.4%);
+  background: url("../../images/decor/testi-bg.svg") 0 0 / 100% no-repeat;
+  width: 1971px;
+  height: 816px;
+}

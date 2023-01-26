@@ -1,0 +1,13 @@
+.testimonials__next {
+  right: 0;
+  justify-content: flex-end;
+}
+
+.testimonials__next::before {
+  transform: translate(50%, -50%) scale(0);
+  right: 22%;
+}
+
+.testimonials__next:hover::before {
+  transform: translate(50%, -50%) scale(1);
+}

@@ -35,6 +35,7 @@
 @import url(../blocks/main/__directions/main__directions.css);
 @import url(../blocks/main/__cert/main__cert.css);
 @import url(../blocks/main/__team/main__team.css);
+@import url(../blocks/main/__testimonials/main__testimonials.css);
 /*стили about us*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__inner/about__inner.css);
@@ -94,3 +95,19 @@
 @import url(../blocks/team/__slider-arrows/team__slider-arrows.css);
 @import url(../blocks/team/__slider-arrow/team__slider-arrow.css);
 @import url(../blocks/team/__slider-prev/team__slider-prev.css);
+/*стили testimonials*/
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__inner/testimonials__inner.css);
+@import url(../blocks/testimonials/__heading/testimonials__heading.css);
+@import url(../blocks/testimonials/__slider-wrapper/testimonials__slider-wrapper.css);
+@import url(../blocks/testimonials/__slider/testimonials__slider.css);
+@import url(../blocks/testimonials/__slide/testimonials__slide.css);
+@import url(../blocks/testimonials/__slide-inner/testimonials__slide-inner.css);
+@import url(../blocks/testimonials/__quote/testimonials__quote.css);
+@import url(../blocks/testimonials/__user/testimonials__user.css);
+@import url(../blocks/testimonials/__avatar/testimonials__avatar.css);
+@import url(../blocks/testimonials/__info-name/testimonials__info-name.css);
+@import url(../blocks/testimonials/__info-position/testimonials__info-position.css);
+@import url(../blocks/testimonials/__arrow/testimonials__arrow.css);
+@import url(../blocks/testimonials/__prev/testimonials__prev.css);
+@import url(../blocks/testimonials/__next/testimonials__next.css);
