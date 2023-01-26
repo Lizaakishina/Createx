@@ -1,0 +1,23 @@
+.blog__info-el {
+  padding: 0 12px;
+  position: relative;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  color: #787A80;
+}
+
+.blog__info-el::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  width: 1px;
+  height: 12px;
+  background-color: #787A80;
+}
+
+.blog__info-el:last-child::after {
+  content: none;
+}

@@ -1,0 +1,14 @@
+.blog__info-date {
+  display: flex;
+  align-items: center;
+}
+
+.blog__info-date::before {
+  content: "";
+  display: block;
+  width: 14px;
+  height: 14px;
+  background: url("../../../images/icons/calendar-icon.svg") 0 0 / 100% no-repeat;
+  margin-right: 9px;
+  margin-bottom: 2px;
+}

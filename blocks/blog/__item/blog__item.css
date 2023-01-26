@@ -1,0 +1,28 @@
+.blog__item {
+  padding: 0 15px;
+  flex: 0 1 33.333%;
+}
+
+.blog__item--podcast .blog__image-box {
+  background: #a2d0f7;
+}
+
+.blog__item--video .blog__image-box {
+  background: #caf0e3;
+}
+
+.blog__item--article .blog__image-box {
+  background: #fff8aa;
+}
+
+.blog__item--podcast .blog__image-box span::before {
+  background: url("../../../images/icons/podcast-icon.svg") 0 0 / 100% no-repeat;
+}
+
+.blog__item--video .blog__image-box span::before {
+  background: url("../../../images/icons/video-icon.svg") 0 0 / 100% no-repeat;
+}
+
+.blog__item--article .blog__image-box span::before {
+  background: url("../../../images/icons/article-icon.svg") 0 0 / 100% no-repeat;
+}

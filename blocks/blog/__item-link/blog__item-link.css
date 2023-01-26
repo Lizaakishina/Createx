@@ -1,0 +1,14 @@
+.blog__item-link {
+  display: block;
+  height: 100%;
+  transition: all 1.3s;
+}
+
+.blog__item-link:hover {
+  transition: all .3s;
+}
+
+.blog__item-link:hover .blog__item-btn {
+  color: #FF3F3A;
+  transition: all .3s;
+}

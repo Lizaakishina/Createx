@@ -1,0 +1,33 @@
+.blog__image-box {
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+  max-height: 315px;
+  margin-bottom: 16px;
+}
+
+.blog__image-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.blog__image-box span {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #FFFFFF;
+  border-radius: 4px;
+  padding: 1px 8px;
+}
+
+.blog__image-box span::before {
+  content: "";
+  display: block;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+  background-position: center;
+}

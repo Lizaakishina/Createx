@@ -1,0 +1,14 @@
+.blog__info-time {
+  display: flex;
+  align-items: center;
+}
+
+.blog__info-time::before {
+  content: "";
+  display: block;
+  width: 14px;
+  height: 14px;
+  background: url("../../../images/icons/clock-icon.svg") 0 0 / 100% no-repeat;
+  margin-right: 9px;
+  margin-bottom: 2px;
+}

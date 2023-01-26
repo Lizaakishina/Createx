@@ -1,0 +1,15 @@
+.blog__item-btn {
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  color: #1E212C;
+  transition: all 1.3s;
+}
+
+.blog__item-btn::after {
+  content: "";
+  width: 24px;
+  height: 24px;
+  background: url("../../../images/icons/arrow-right-red.svg") 0 0 / 100% no-repeat;
+  margin-left: 8px;
+}

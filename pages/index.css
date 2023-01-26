@@ -36,6 +36,7 @@
 @import url(../blocks/main/__testimonials/main__testimonials.css);
 @import url(../blocks/main/__companies/main__companies.css);
 @import url(../blocks/main/__program/main__program.css);
+@import url(../blocks/main/__blog/main__blog.css);
 /*стили about us*/
 @import url(../blocks/about/__createx/about__createx.css);
 @import url(../blocks/about/__createx-content/about__createx-content.css);
@@ -121,3 +122,19 @@
 @import url(../blocks/program/__acc-head/program__acc-head.css);
 @import url(../blocks/program/__acc-text/program__acc-text.css);
 @import url(../blocks/program/__image/program__image.css);
+/*стили blog*/
+@import url(../blocks/blog/__top/blog__top.css);
+@import url(../blocks/blog/__heading/blog__heading.css);
+@import url(../blocks/blog/__row/blog__row.css);
+@import url(../blocks/blog/__item/blog__item.css);
+@import url(../blocks/blog/__item-link/blog__item-link.css);
+@import url(../blocks/blog/__item-inner/blog__item-inner.css);
+@import url(../blocks/blog/__image-box/blog__image-box.css);
+@import url(../blocks/blog/__item-content/blog__item-content.css);
+@import url(../blocks/blog/__item-info/blog__item-info.css);
+@import url(../blocks/blog/__info-el/blog__info-el.css);
+@import url(../blocks/blog/__info-date/blog__info-date.css);
+@import url(../blocks/blog/__info-time/blog__info-time.css);
+@import url(../blocks/blog/__item-title/blog__item-title.css);
+@import url(../blocks/blog/__item-text/blog__item-text.css);
+@import url(../blocks/blog/__item-btn/blog__item-btn.css);
