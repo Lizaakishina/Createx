@@ -1,0 +1,17 @@
+.footer__form-btn {
+  background: transparent;
+  padding: 10px 12px;
+}
+
+.footer__form-btn::before {
+  content: "";
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: url("../../../images/icons/arrow-right-mini.svg");
+  transition: all .3s;
+}
+
+.footer__form-btn:hover::before {
+  transform: scale(1.2);
+}

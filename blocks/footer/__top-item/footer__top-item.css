@@ -1,0 +1,7 @@
+.footer__top-item {
+  margin-bottom: 8px;
+}
+
+.footer__top-item:last-child {
+  margin-bottom: 0;
+}

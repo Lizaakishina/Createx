@@ -1,0 +1,7 @@
+.footer__socials-link path {
+  transition: all .3s;
+}
+
+.footer__socials-link:hover path {
+  fill: #fff;
+}

@@ -1,0 +1,14 @@
+.footer__form-input {
+  padding: 9px 0px 9px 12px;
+  font-size: 12px;
+  line-height: 150%;
+  color: #fff;
+  width: 100%;
+  position: relative;
+  background-color: transparent;
+}
+
+.footer__form-input::placeholder {
+  color: #fff;
+  opacity: .6;
+}

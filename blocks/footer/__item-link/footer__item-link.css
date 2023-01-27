@@ -1,0 +1,15 @@
+.footer__item-link {
+  opacity: .6;
+  display: flex;
+  align-items: center;
+  transition: all .3s;
+  white-space: nowrap;
+}
+
+.footer__item-link svg {
+  margin-right: 8px;
+}
+
+.footer__item-link:hover {
+  opacity: 1;
+}

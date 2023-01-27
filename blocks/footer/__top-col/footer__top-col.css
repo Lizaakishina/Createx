@@ -1,0 +1,13 @@
+.footer__top-col {
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+}
+
+.footer__top-col:first-child {
+  max-width: 310px;
+}
+
+.footer__top-col:last-child {
+  max-width: 315px;
+}

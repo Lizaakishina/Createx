@@ -1,0 +1,12 @@
+.footer__go-top {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  opacity: 0.6;
+  text-transform: uppercase;
+  transition: all .3s;
+}
+
+.footer__go-top:hover {
+  opacity: 1;
+}

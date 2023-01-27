@@ -1,0 +1,7 @@
+.footer__copy span {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("../../../images/icons/heart-icon.svg") 0 0 / 100% 100% no-repeat;
+  vertical-align: sub;
+}

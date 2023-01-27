@@ -1,0 +1,13 @@
+.footer__top-title {
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.footer__top-col:last-child .footer__top-title {
+  white-space: normal;
+}
