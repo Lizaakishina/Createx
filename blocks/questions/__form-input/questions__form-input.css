@@ -1,0 +1,14 @@
+.questions__form-input,
+.questions__form-text {
+  display: block;
+  border: 1px solid #D7DADD;
+  border-radius: 4px;
+  padding: 13px 16px;
+  width: 100%;
+  margin-top: 8px;
+}
+
+.questions__form-input::placeholder,
+.questions__form-text::placeholder {
+  color: #9A9CA5;
+}

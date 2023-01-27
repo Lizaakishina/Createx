@@ -1,0 +1,12 @@
+.questions__form-default {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+}
+
+.questions__form-default:checked+.questions__form-custom {
+  background: url("../../../images/icons/check.svg") 50% 50% no-repeat, #FF3F3A;
+  border: 1px solid #FF3F3A;
+}

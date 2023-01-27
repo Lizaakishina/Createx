@@ -38,6 +38,7 @@
 @import url(../blocks/main/__program/main__program.css);
 @import url(../blocks/main/__blog/main__blog.css);
 @import url(../blocks/main/__info/main__info.css);
+@import url(../blocks/main/__questions/main__questions.css);
 /*стили about us*/
 @import url(../blocks/about/__createx/about__createx.css);
 @import url(../blocks/about/__createx-content/about__createx-content.css);
@@ -157,3 +158,17 @@
 @import url(../blocks/info/__socials-link/info__socials-link.css);
 @import url(../blocks/info/__map/info__map.css);
 /*стили questions*/
+@import url(../blocks/questions/__inner/questions__inner.css);
+@import url(../blocks/questions/__img/questions__img.css);
+@import url(../blocks/questions/__content/questions__content.css);
+@import url(../blocks/questions/__heading/questions__heading.css);
+@import url(../blocks/questions/__form-row/questions__form-row.css);
+@import url(../blocks/questions/__form-label/questions__form-label.css);
+@import url(../blocks/questions/__text-label/questions__text-label.css);
+@import url(../blocks/questions/__form-input/questions__form-input.css);
+@import url(../blocks/questions/__form-text/questions__form-text.css);
+@import url(../blocks/questions/__checkbox-label/questions__checkbox-label.css);
+@import url(../blocks/questions/__form-checkbox/questions__form-checkbox.css);
+@import url(../blocks/questions/__form-default/questions__form-default.css);
+@import url(../blocks/questions/__form-custom/questions__form-custom.css);
+@import url(../blocks/questions/__form-btn/questions__form-btn.css);
