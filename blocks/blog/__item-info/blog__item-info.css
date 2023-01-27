@@ -2,3 +2,11 @@
   display: flex;
   margin: 0 -12px 8px;
 }
+
+@media (max-width: 1200px) {
+  .blog__item-info {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 0 8px;
+  }
+}

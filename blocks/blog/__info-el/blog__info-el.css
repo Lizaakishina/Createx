@@ -21,3 +21,13 @@
 .blog__info-el:last-child::after {
   content: none;
 }
+
+@media (max-width: 1200px) {
+  .blog__info-el {
+    padding: 0;
+  }
+
+  .blog__info-el::after {
+    content: none;
+  }
+}

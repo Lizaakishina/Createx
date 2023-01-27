@@ -17,6 +17,7 @@
 @import url(../blocks/header/__top-btn/header__top-btn.css);
 @import url(../blocks/header/__user-nav/header__user-nav);
 @import url(../blocks/header/__user-btn/header__user-btn.css);
+@import url(../blocks/header/__img/header__img.css);
 /*стили header__body*/
 @import url(../blocks/header/__body/header__body.css);
 @import url(../blocks/header/__body-inner/header__body-inner.css);
@@ -140,6 +141,7 @@
 @import url(../blocks/blog/__item-title/blog__item-title.css);
 @import url(../blocks/blog/__item-text/blog__item-text.css);
 @import url(../blocks/blog/__item-btn/blog__item-btn.css);
+@import url(../blocks/blog/__info-dir/blog__info-dir.css);
 /*стили info*/
 @import url(../blocks/info/__inner/info__inner.css);
 @import url(../blocks/info/__content/info__content.css);

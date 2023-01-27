@@ -6,3 +6,10 @@
   max-width: 500px;
   margin-bottom: 60px;
 }
+
+@media (max-width: 1200px) {
+  .header__title {
+    font-size: 52px;
+    max-width: 376px;
+  }
+}
