@@ -15,3 +15,10 @@
     transform: translateX(0%);
   }
 }
+
+@media (max-width: 450px) {
+  .header__top {
+    min-width: none;
+    left: 0;
+  }
+}

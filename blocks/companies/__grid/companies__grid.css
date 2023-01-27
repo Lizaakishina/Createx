@@ -21,3 +21,9 @@
     grid-template: repeat(4, auto) / repeat(3, 1fr);
   }
 }
+
+@media (max-width: 450px) {
+  .companies__grid {
+    grid-template: repeat(6, auto) / repeat(2, 1fr);
+  }
+}

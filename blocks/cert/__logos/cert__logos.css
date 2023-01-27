@@ -1,3 +1,10 @@
 .cert__logos {
   display: flex;
 }
+
+@media (max-width: 450px) {
+  .cert__logos {
+    flex-direction: column;
+    align-items: center;
+  }
+}

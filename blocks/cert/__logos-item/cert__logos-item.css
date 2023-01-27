@@ -5,3 +5,13 @@
 .cert__logos-item:last-child {
   margin-right: 0;
 }
+
+@media (max-width: 450px) {
+  .cert__logos-item {
+    margin: 0px 0px 30px 0px;
+  }
+
+  .cert__logos-item:last-child {
+    margin: 0px;
+  }
+}

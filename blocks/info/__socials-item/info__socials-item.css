@@ -5,3 +5,9 @@
 .info__socials-item:last-child {
   margin-right: 0;
 }
+
+@media (max-width: 450px) {
+  .info__socials-item {
+    margin-right: 15px;
+  }
+}

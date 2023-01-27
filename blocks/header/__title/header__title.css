@@ -13,3 +13,10 @@
     max-width: 376px;
   }
 }
+
+@media (max-width: 450px) {
+  .header__title {
+    max-width: none;
+    font-size: 40px;
+  }
+}

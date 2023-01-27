@@ -7,3 +7,10 @@
     margin-bottom: 20px;
   }
 }
+
+@media (max-width: 450px) {
+  .header__content-buttons {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

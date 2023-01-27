@@ -28,3 +28,13 @@
     width: 100%;
   }
 }
+
+@media (max-width: 450px) {
+  .about__image-box img {
+    display: none;
+  }
+
+  .about__image-box {
+    height: 0;
+  }
+}

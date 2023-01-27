@@ -5,3 +5,10 @@
 .header__content-btn:last-child {
   margin-right: 0px;
 }
+
+@media (max-width: 450px) {
+  .header__content-btn {
+    margin: 0px 0px 30px 0px;
+    text-align: center;
+  }
+}

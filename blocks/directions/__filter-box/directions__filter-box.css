@@ -9,3 +9,9 @@
     margin-bottom: 20px;
   }
 }
+
+@media (max-width: 450px) {
+  .directions__filter-box {
+    margin-bottom: 15px;
+  }
+}
