@@ -2,3 +2,9 @@
   background-color: #1E212C;
   padding: 80px 0 60px;
 }
+
+@media (max-width: 1100px) {
+  .footer__top {
+    padding: 50px 0 60px;
+  }
+}

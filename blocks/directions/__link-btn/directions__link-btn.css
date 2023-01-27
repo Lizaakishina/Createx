@@ -13,3 +13,9 @@
   background: url("../images/icons/arrow-right-red.svg") 0 2px / 100% no-repeat;
   margin-left: 11px;
 }
+
+@media (max-width: 900px) {
+  .directions__link-btn {
+    margin-bottom: 5px;
+  }
+}

@@ -1,3 +1,15 @@
 .main__about {
   padding: 180px 0 160px;
 }
+
+@media (max-width: 1200px) {
+  .main__about {
+    padding: 150px 0 110px;
+  }
+}
+
+@media (max-width: 900px) {
+  .main__about {
+    padding: 100px 0 100px;
+  }
+}

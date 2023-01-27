@@ -4,6 +4,7 @@
   position: relative;
   max-height: 315px;
   margin-bottom: 16px;
+  margin-top: 10px;
 }
 
 .blog__image-box img {

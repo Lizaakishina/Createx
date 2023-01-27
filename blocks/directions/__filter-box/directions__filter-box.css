@@ -3,3 +3,9 @@
   flex-wrap: wrap;
   margin-bottom: 40px;
 }
+
+@media (max-width: 900px) {
+  .directions__filter-box {
+    margin-bottom: 20px;
+  }
+}

@@ -3,3 +3,9 @@
   display: flex;
   flex-direction: column;
 }
+
+@media (max-width: 900px) {
+  .blog__item-content {
+    padding: 10px 20px;
+  }
+}

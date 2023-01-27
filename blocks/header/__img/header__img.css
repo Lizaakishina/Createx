@@ -6,6 +6,6 @@
 
 @media (max-width: 900px) {
   .header__img {
-    display: none;
+    max-width: 350px;
   }
 }

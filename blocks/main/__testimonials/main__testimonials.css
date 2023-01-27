@@ -1,3 +1,9 @@
 .main__testimonials {
   padding-bottom: 195px;
 }
+
+@media (max-width: 1100px) {
+  .main__testimonials {
+    padding-bottom: 150px;
+  }
+}

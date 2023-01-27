@@ -4,3 +4,9 @@
   align-items: flex-end;
   margin-bottom: 60px;
 }
+
+@media (max-width: 900px) {
+  .blog__top {
+    margin-bottom: 30px;
+  }
+}

@@ -4,6 +4,7 @@
   font-weight: 700;
   color: #1E212C;
   transition: all 1.3s;
+  margin-bottom: 10px;
 }
 
 .blog__item-btn::after {
@@ -12,4 +13,10 @@
   height: 24px;
   background: url("../../../images/icons/arrow-right-red.svg") 0 0 / 100% no-repeat;
   margin-left: 8px;
+}
+
+@media (max-width: 900px) {
+  .blog__item-btn {
+    margin-bottom: 0px;
+  }
 }
