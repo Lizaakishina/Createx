@@ -1,3 +1,11 @@
 .header__nav {
   margin-right: auto;
 }
+
+@media (max-width: 1100px) {
+  .header__nav {
+    text-align: center;
+    margin: 0 auto;
+    flex-grow: 1;
+  }
+}

@@ -1,3 +1,9 @@
 .header__top-btn {
   margin-right: 36px;
 }
+
+@media (max-width: 1100px) {
+  .header__top-btn {
+    margin: 0;
+  }
+}

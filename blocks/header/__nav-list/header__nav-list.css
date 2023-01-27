@@ -1,3 +1,11 @@
 .header__nav-list {
   display: flex;
 }
+
+@media (max-width: 1100px) {
+  .header__nav-list {
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+}

@@ -11,3 +11,21 @@
 .footer__top-col:last-child {
   max-width: 315px;
 }
+
+@media (max-width: 1100px) {
+  .footer__top-col {
+    margin-bottom: 30px;
+  }
+
+  .footer__top-col:first-child {
+    flex-basis: 100%;
+    max-width: none;
+    margin-bottom: 30px;
+  }
+
+  .footer__top-col:last-child {
+    flex-basis: 100%;
+    max-width: none;
+    margin-bottom: 0px;
+  }
+}

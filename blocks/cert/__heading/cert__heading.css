@@ -1,3 +1,9 @@
 .cert__heading {
   margin-bottom: 50px;
 }
+
+@media (max-width: 1100px) {
+  .cert__heading {
+    text-align: center;
+  }
+}

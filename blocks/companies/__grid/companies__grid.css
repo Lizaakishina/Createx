@@ -3,3 +3,9 @@
   grid-template: repeat(2, auto) / repeat(6, 1fr);
   gap: 40px 8.1%;
 }
+
+@media (max-width: 1100px) {
+  .companies__grid {
+    gap: 40px 5%;
+  }
+}

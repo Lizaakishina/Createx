@@ -7,3 +7,10 @@
 .header__nav-link:hover {
   color: #FF3F3A;
 }
+
+@media (max-width: 1100px) {
+  .header__nav-link {
+    display: block;
+    padding: 10px;
+  }
+}
