@@ -1,3 +1,9 @@
 .main__companies {
   padding-bottom: 177px;
 }
+
+@media (max-width: 550px) {
+  .main__companies {
+    padding-bottom: 40px;
+  }
+}

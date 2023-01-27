@@ -6,3 +6,14 @@
 .questions__form-label:last-child {
   margin-right: 0;
 }
+
+@media (max-width: 550px) {
+  .questions__form-label {
+    font-size: 14px;
+    margin: 0px 0px 24px 0px;
+  }
+
+  .questions__form-label:last-child {
+    margin: 0px;
+  }
+}

@@ -7,3 +7,9 @@
     padding-bottom: 150px;
   }
 }
+
+@media (max-width: 550px) {
+  .main__directions {
+    padding-bottom: 100px;
+  }
+}

@@ -12,3 +12,10 @@
   line-height: 150%;
   color: #1E212C;
 }
+
+@media (max-width: 550px) {
+  .about__paragraph {
+    font-size: inherit;
+    margin-bottom: 10px;
+  }
+}

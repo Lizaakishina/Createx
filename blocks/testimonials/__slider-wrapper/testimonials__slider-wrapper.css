@@ -9,3 +9,9 @@
     padding: 0;
   }
 }
+
+@media (max-width: 550px) {
+  .testimonials__slider-wrapper {
+    margin-bottom: 15px;
+  }
+}

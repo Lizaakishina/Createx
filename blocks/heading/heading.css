@@ -5,3 +5,9 @@
 .heading--text-center {
   text-align: center;
 }
+
+@media (max-width: 550px) {
+  .heading {
+    margin-bottom: 30px;
+  }
+}

@@ -1,3 +1,9 @@
 .main__program {
   padding: 115px 0 185px;
 }
+
+@media (max-width: 550px) {
+  .main__program {
+    padding: 60px 0 100px;
+  }
+}

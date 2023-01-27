@@ -9,3 +9,9 @@
     font-size: 37px;
   }
 }
+
+@media (max-width: 550px) {
+  .heading__title {
+    font-size: 25px;
+  }
+}

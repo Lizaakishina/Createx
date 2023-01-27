@@ -31,3 +31,10 @@
 .program__acc-link--active .program__acc-head::after {
   transform: rotate(0deg);
 }
+
+@media (max-width: 550px) {
+  .program__acc-head {
+    font-size: inherit;
+    line-height: inherit;
+  }
+}

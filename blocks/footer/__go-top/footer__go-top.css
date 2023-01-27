@@ -10,3 +10,9 @@
 .footer__go-top:hover {
   opacity: 1;
 }
+
+@media (max-width: 550px) {
+  .footer__go-top {
+    margin-bottom: 15px;
+  }
+}

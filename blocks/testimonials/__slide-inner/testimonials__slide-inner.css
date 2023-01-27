@@ -3,3 +3,9 @@
   margin: 0 auto;
   padding-left: 58px;
 }
+
+@media (max-width: 550px) {
+  .testimonials__slide-inner {
+    padding-left: 30px;
+  }
+}

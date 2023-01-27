@@ -1,3 +1,9 @@
 .about__text {
   margin-bottom: 60px;
 }
+
+@media (max-width: 550px) {
+  .about__text {
+    margin-bottom: 30px;
+  }
+}

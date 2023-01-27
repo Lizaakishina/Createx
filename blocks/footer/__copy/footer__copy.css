@@ -5,3 +5,9 @@
   background: url("../../../images/icons/heart-icon.svg") 0 0 / 100% 100% no-repeat;
   vertical-align: sub;
 }
+
+@media (max-width: 550px) {
+  .footer__copy {
+    text-align: center;
+  }
+}

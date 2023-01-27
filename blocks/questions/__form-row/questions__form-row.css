@@ -2,3 +2,9 @@
   display: flex;
   margin-bottom: 24px;
 }
+
+@media (max-width: 550px) {
+  .questions__form-row {
+    flex-direction: column;
+  }
+}

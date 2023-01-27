@@ -6,3 +6,9 @@
 .team__slider .slick-list {
   margin: 0 -15px;
 }
+
+@media (max-width: 550px) {
+  .team__slider {
+    flex-direction: column;
+  }
+}

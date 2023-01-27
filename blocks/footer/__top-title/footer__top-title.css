@@ -11,3 +11,10 @@
 .footer__top-col:last-child .footer__top-title {
   white-space: normal;
 }
+
+@media (max-width: 550px) {
+  .footer__top-title--slide {
+    pointer-events: auto;
+    margin: 0;
+  }
+}

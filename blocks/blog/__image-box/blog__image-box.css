@@ -37,6 +37,7 @@
   .blog__image-box {
     display: flex;
     justify-content: center;
+    margin-top: 0px;
   }
 
   .blog__image-box img {

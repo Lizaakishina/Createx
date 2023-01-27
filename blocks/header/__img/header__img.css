@@ -9,3 +9,9 @@
     max-width: 350px;
   }
 }
+
+@media (max-width: 750px) {
+  .header__img {
+    display: none;
+  }
+}

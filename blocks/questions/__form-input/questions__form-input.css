@@ -12,3 +12,10 @@
 .questions__form-text::placeholder {
   color: #9A9CA5;
 }
+
+@media (max-width: 550px) {
+  .questions__form-input,
+  .questions__form-text {
+    margin-top: 0;
+  }
+}

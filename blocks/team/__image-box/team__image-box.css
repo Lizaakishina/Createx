@@ -4,3 +4,10 @@
   overflow: hidden;
   position: relative;
 }
+
+@media (max-width: 550px) {
+  .team__image-box {
+    max-width: 300px;
+    margin: 0 auto 16px;
+  }
+}

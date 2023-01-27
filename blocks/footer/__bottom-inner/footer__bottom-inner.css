@@ -1,0 +1,5 @@
+@media (max-width: 550px) {
+  .footer__bottom-inner {
+    flex-direction: column-reverse;
+  }
+}

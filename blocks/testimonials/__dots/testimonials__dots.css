@@ -1,0 +1,5 @@
+@media (max-width: 550px) {
+  .testimonials__dots button {
+    width: 20px;
+  }
+}

@@ -2,3 +2,9 @@
   display: block;
   margin-bottom: 50px;
 }
+
+@media (max-width: 550px) {
+  .questions__text-label {
+    font-size: 14px;
+  }
+}

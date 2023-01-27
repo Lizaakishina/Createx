@@ -14,3 +14,15 @@
   width: 28px;
   height: 20px;
 }
+
+@media (max-width: 550px) {
+  .testimonials__quote {
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  .testimonials__quote::before {
+    left: -30px;
+    width: 20px;
+  }
+}

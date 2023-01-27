@@ -13,3 +13,9 @@
     padding: 100px 0 100px;
   }
 }
+
+@media (max-width: 550px) {
+  .main__about {
+    padding: 60px 0 100px;
+  }
+}

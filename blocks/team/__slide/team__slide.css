@@ -9,3 +9,10 @@
 .team__slide:hover .team__socials {
   transform: translateY(0%);
 }
+
+@media (max-width: 550px) {
+  .team__slide {
+    margin-right: 0px;
+    margin-bottom: 40px;
+  }
+}

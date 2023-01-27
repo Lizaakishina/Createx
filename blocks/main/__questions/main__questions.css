@@ -7,3 +7,9 @@
     padding-bottom: 130px;
   }
 }
+
+@media (max-width: 550px) {
+  .main__questions {
+    padding-bottom: 40px;
+  }
+}

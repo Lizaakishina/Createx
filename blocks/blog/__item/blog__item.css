@@ -37,5 +37,6 @@
 @media (max-width: 900px) {
   .blog__item {
     padding: 0px 0px 30px 0px;
+    margin-top: 20px;
   }
 }
