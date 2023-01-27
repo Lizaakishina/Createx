@@ -1,3 +1,9 @@
-.header__contend {
+.header__content {
   margin-right: 30px;
+}
+
+@media (max-width: 900px) {
+  .header__content {
+    margin: 0;
+  }
 }

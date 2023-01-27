@@ -3,3 +3,10 @@
   align-items: flex-end;
   justify-content: space-between;
 }
+
+@media (max-width: 900px) {
+  .info__inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

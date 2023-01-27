@@ -9,3 +9,9 @@
     gap: 40px 5%;
   }
 }
+
+@media (max-width: 900px) {
+  .companies__grid {
+    grid-template: repeat(3, auto) / repeat(4, 1fr);
+  }
+}

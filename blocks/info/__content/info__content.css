@@ -1,3 +1,9 @@
 .info__content {
   margin-right: 30px;
 }
+
+@media (max-width: 900px) {
+  .info__content {
+    margin: 0px 0px 30px 0px;
+  }
+}

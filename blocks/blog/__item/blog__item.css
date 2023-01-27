@@ -26,3 +26,9 @@
 .blog__item--article .blog__image-box span::before {
   background: url("../../../images/icons/article-icon.svg") 0 0 / 100% no-repeat;
 }
+
+@media (max-width: 900px) {
+  .blog__item {
+    padding: 0px 0px 30px 0px;
+  }
+}

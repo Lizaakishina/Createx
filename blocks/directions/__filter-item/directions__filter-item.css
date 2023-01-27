@@ -6,3 +6,9 @@
 .directions__filter-item:last-child {
   margin-right: 0;
 }
+
+@media (max-width: 900px) {
+  .directions__filter-item {
+    margin-right: 10px;
+  }
+}

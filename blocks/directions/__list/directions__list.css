@@ -3,3 +3,9 @@
   grid-template: repeat(2, auto) / repeat(3, 1fr);
   gap: 30px;
 }
+
+@media (max-width: 900px) {
+  .directions__list {
+    gap: 30px 10px;
+  }
+}

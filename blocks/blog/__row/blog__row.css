@@ -2,3 +2,10 @@
   display: flex;
   margin: 0 -15px;
 }
+
+@media (max-width: 900px) {
+  .blog__row {
+    flex-direction: column;
+    margin: 0;
+  }
+}

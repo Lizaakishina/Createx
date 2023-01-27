@@ -1,3 +1,10 @@
 .questions__content {
   margin-left: 30px;
 }
+
+@media (max-width: 900px) {
+  .questions__content {
+    margin: 0;
+    width: 100%;
+  }
+}

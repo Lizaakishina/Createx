@@ -31,3 +31,14 @@
   margin-right: 4px;
   background-position: center;
 }
+
+@media (max-width: 900px) {
+  .blog__image-box {
+    display: flex;
+    justify-content: center;
+  }
+
+  .blog__image-box img {
+    width: auto;
+  }
+}

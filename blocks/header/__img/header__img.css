@@ -3,3 +3,9 @@
     max-width: 450px;
   }
 }
+
+@media (max-width: 900px) {
+  .header__img {
+    display: none;
+  }
+}

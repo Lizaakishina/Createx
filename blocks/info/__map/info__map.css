@@ -6,3 +6,11 @@
   border-radius: 4px;
   overflow: hidden;
 }
+
+@media (max-width: 900px) {
+  .info__map {
+    height: 200px;
+    width: 100%;
+    max-width: none;
+  }
+}
