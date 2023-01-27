@@ -22,3 +22,9 @@
     display: none;
   }
 }
+
+@media (max-width: 700px) {
+  .about__image-box {
+    width: 100%;
+  }
+}

@@ -15,3 +15,9 @@
   width: 100px;
   height: 85px;
 }
+
+@media (max-width: 700px) {
+  .about__createx {
+    margin-bottom: 60px;
+  }
+}

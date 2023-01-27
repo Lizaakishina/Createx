@@ -1,3 +1,9 @@
 .main__blog {
   padding-bottom: 200px;
 }
+
+@media (max-width: 700px) {
+  .main__blog {
+    padding-bottom: 100px;
+  }
+}

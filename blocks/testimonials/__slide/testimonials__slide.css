@@ -3,3 +3,9 @@
   background-color: #fff;
   border-radius: 4px;
 }
+
+@media (max-width: 700px) {
+  .testimonials__slide {
+    padding: 30px 15px;
+  }
+}
