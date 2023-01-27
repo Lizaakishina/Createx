@@ -37,6 +37,7 @@
 @import url(../blocks/main/__companies/main__companies.css);
 @import url(../blocks/main/__program/main__program.css);
 @import url(../blocks/main/__blog/main__blog.css);
+@import url(../blocks/main/__info/main__info.css);
 /*стили about us*/
 @import url(../blocks/about/__createx/about__createx.css);
 @import url(../blocks/about/__createx-content/about__createx-content.css);
@@ -138,3 +139,21 @@
 @import url(../blocks/blog/__item-title/blog__item-title.css);
 @import url(../blocks/blog/__item-text/blog__item-text.css);
 @import url(../blocks/blog/__item-btn/blog__item-btn.css);
+/*стили info*/
+@import url(../blocks/info/__inner/info__inner.css);
+@import url(../blocks/info/__content/info__content.css);
+@import url(../blocks/info/__heading/info__heading.css);
+@import url(../blocks/info/__contacts/info__contacts.css);
+@import url(../blocks/info/__contacts-item/info__contacts-item.css);
+@import url(../blocks/info/__item-top/info__item-top.css);
+@import url(../blocks/info/__item-link/info__item-link.css);
+@import url(../blocks/info/__mail/info__mail.css);
+@import url(../blocks/info/__tel/info__tel.css);
+@import url(../blocks/info/__address/info__address.css);
+@import url(../blocks/info/__item-address/info__item-address.css);
+@import url(../blocks/info/__follow-head/info__follow-head.css);
+@import url(../blocks/info/__socials/info__socials.css);
+@import url(../blocks/info/__socials-item/info__socials-item.css);
+@import url(../blocks/info/__socials-link/info__socials-link.css);
+@import url(../blocks/info/__map/info__map.css);
+/*стили questions*/

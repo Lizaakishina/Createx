@@ -1,0 +1,7 @@
+.info__socials-link path {
+  transition: all .3s;
+}
+
+.info__socials-link:hover path {
+  fill: #000;
+}

@@ -1,0 +1,9 @@
+.info__item-link {
+  font-size: 18px;
+  line-height: 150%;
+  transition: all .3s;
+}
+
+.info__item-link:hover {
+  color: #FF3F3A;
+}

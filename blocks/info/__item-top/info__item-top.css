@@ -1,0 +1,16 @@
+.info__item-top {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  color: #787A80;
+  position: relative;
+}
+
+.info__item-top::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -36px;
+  width: 24px;
+  height: 24px;
+}

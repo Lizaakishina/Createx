@@ -1,0 +1,7 @@
+.info__socials-item {
+  margin-right: 32px;
+}
+
+.info__socials-item:last-child {
+  margin-right: 0;
+}

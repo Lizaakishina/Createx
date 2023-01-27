@@ -1,0 +1,3 @@
+.info__mail .info__item-top::before {
+  background: url("../../../images/icons/chat-icon.svg") 0 0 / 100% no-repeat;
+}
